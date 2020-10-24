@@ -1,0 +1,15 @@
+<div class="users-container" *ngIf="usersArray.length > 0">
+  <div class="user" *ngFor="let userItem of usersArray">
+    <div class="user__image">
+      <img src="{{userItem.picture.large}}">
+    </div>
+    <div class="user__name">
+      {{userItem.name.first}} {{userItem.name.last}}
+    </div>
+    <div class="user__phone">
+      {{userItem.phone}}
+    </div>
+  </div>
+</div>
+
+<div class="loading" *ngIf="usersArray.length === 0">Loading...</div>
