@@ -1,27 +1,38 @@
-# NgApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+# Getting Started with Angular (online-workshop) | DSC - NED University, Karachi, Pakistan
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project is created for the Online workshop that happened on 24th Oct, 2020. Organized by DSC NED University, Karachi, Pakistan.
 
-## Code scaffolding
+## Workshop Recording
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mwb3eHhVOf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Build
+<hr>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## How to run the project
 
-## Running unit tests
+> 🧐 Clone the project using the command below in your CMD prompt/terminal 
+```bash
+git clone https://github.com/AhsanAyaz/ng-starter-dsc-uet.git
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> 💻 Open the project folder inside [VSCode](https://code.visualstudio.com/) (or your favorite editor) 
 
-## Running end-to-end tests
+> 📦 Using CMD prompt/terminal, run the following command inside the project folder:
+```bash
+npm install
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+> 🚀 Once the dependencies have ben installed, run the following command to spin up the Angular dev server :
+```bash
+npm start
+```
 
-## Further help
+> 😎 Navigate to https://localhost:4200 and see the project running 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<hr>
+
+# Follow me! 🎉🎉   
+If you like my work, give me follow on my [Github](https://github.com/ahsanayaz), [Twitter](https://twitter.com/iamahsanayaz), and subscribe to my [Youtube channel](https://www.youtube.com/channel/UCAys-Lg76QcRNGc0dOr_bXA) for more videos
